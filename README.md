@@ -1,4 +1,4 @@
-# Static-Site-Server-
+# Static-Site-Server
 Static Site Server for DevOps Roadmap 
 https://roadmap.sh/projects/static-site-server
 
